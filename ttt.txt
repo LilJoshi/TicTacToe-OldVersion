@@ -1,0 +1,7 @@
+tic-tac-toe and generalizations
+nine-board tic-tac-toe and generalizations
+super-tic-tac-toe and generalizations
+star tic-tac-toe and generalizations
+topological tic-tac-toe and generelizations (tubular, topological surfaces)
+quantum tic-tac-toe and generalizations
+unlimited tic-tac-toe and generalizations
